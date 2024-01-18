@@ -1,0 +1,14 @@
+{
+  "name": "mickaelpadel.github.io",
+  "version": "1.0.0",
+  "description": "npm -demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mickaelpadel@github.io",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3"
+  }
+}
